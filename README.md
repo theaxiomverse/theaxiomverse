@@ -1,16 +1,14 @@
-## Hi there 👋
+# THE AXIOMVERSE
 
-<!--
-**theaxiomverse/theaxiomverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to the axiomverse!
 
-Here are some ideas to get you started:
+### Forging the future of decentralized technologies NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+# QUIDS - EVM Compatible post-quantum blockchain
+
+- language: c++ 20
+- check the repo
+
+
